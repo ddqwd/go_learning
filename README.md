@@ -2,4 +2,4 @@
 golang's studying records
 
 
-[GPM](https://zhuanlan.zhihu.com/p/261807834)
+[Go学习总结之GPM模型](https://zhuanlan.zhihu.com/p/261807834)
